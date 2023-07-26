@@ -2,6 +2,7 @@
   "name": "simple-todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://esa1.github.io/CICD/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -36,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
   }
 }
